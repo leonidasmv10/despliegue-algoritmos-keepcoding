@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/yordy/Documents/dev/bootcamp/inteligencia_artificial/keepcoding/despliegue-algoritmos-keepcoding/mlruns/322238310015543690/799121bc5f124bdbaf97af011656fc86/artifacts
+end_time: 1750003682484
+entry_point_name: ''
+experiment_id: '322238310015543690'
+lifecycle_stage: active
+run_id: 799121bc5f124bdbaf97af011656fc86
+run_name: sci.space_vs_comp.graphics
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750003670740
+status: 3
+tags: []
+user_id: yordy

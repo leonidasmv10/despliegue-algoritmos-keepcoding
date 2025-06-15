@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/yordy/Documents/dev/bootcamp/inteligencia_artificial/keepcoding/despliegue-algoritmos-keepcoding/mlruns/322238310015543690/models/m-7e718662347b41b0854016ed6ee3cc4a/artifacts
+creation_timestamp: 1750003672875
+experiment_id: '322238310015543690'
+last_updated_timestamp: 1750003682246
+model_id: m-7e718662347b41b0854016ed6ee3cc4a
+model_type: null
+name: modelo_texto_sci_space_vs_comp_graphics
+source_run_id: 799121bc5f124bdbaf97af011656fc86
+status: 2
+status_message: null
